@@ -44,4 +44,4 @@ fi
 echo "enter the number of lines you want to print :"
 read num_lines
 head -n $num_lines sedexp2.txt
-
+echo "script executed seccussfully"
